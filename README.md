@@ -19,5 +19,6 @@ Install:
     ttf-jetbrains-mono-nerd
     wireplumber
     neovim
+    rofi-lbonn-wayland-git
 chmod +x:
     ~/.config/waybar/scripts
