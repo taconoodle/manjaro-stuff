@@ -20,5 +20,6 @@ Install:
     wireplumber
     neovim
     rofi-lbonn-wayland-git
+    pywal16
 chmod +x:
     ~/.config/waybar/scripts
